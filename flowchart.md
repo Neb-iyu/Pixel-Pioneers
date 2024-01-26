@@ -1,6 +1,6 @@
 #Flowchart
 '''mermaid
-flowchart TD;
+graph TD;
   A([Start]) --> B("'DAYS = **30**
   NUMBER_OF_WAREHOUSE = 4'")-->C["int i = 0"];
   C --> D[/"Enter warehouse(warehousenum)
